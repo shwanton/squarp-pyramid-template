@@ -25,10 +25,10 @@ Midi_A_mode:0
 Midi_B_mode:0
 Send_SYNC_A:1
 Send_SYNC_B:1
-Send_SYNC_USB:0
+Send_SYNC_USB:1
 Send_RT_A:1
 Send_RT_B:1
-Send_RT_USB:0
+Send_RT_USB:1
 Pyramid_Channel_Out:0
 Clock_Stop:0
 Din_Sync_Type:8
@@ -60,7 +60,7 @@ Settings_Assign:1
 Touchpad_Smartpads:0
 Touchpad:1
 Touchpad_Relatch:0
-USB:0
+USB:1
 Inst_Mute:0
 Step_Learn:1
 Live_Looper:0
