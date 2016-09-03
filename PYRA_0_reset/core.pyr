@@ -260,7 +260,7 @@ Seq_BarPerform:1
 SEQ>01_Mute_BankA:0
 SEQ>01_Mute_BankB:65535
 SEQ>01_Mute_BankC:65535
-SEQ>01_Mute_BankD:65535
+SEQ>01_Mute_BankD:65286
 ----- SEQ02 -----
 SEQ>02_Mute_BankA:65535
 SEQ>02_Mute_BankB:65535
