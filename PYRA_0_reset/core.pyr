@@ -249,8 +249,87 @@ TR>56_Relatch:2
 TR>56_Midi_Output:1
 TR>56_Time_Sign_L:4
 TR>56_Time_Sign_R:4
-TR>56_Step_Note:72
 TR>56_Step_CC:122
+---- TRACK57 ----
+TR>57_Channel:8
+TR>57_Zoom:100
+TR>57_Length:16
+TR>57_Step_Mode:4
+TR>57_Relatch:2
+TR>57_Midi_Output:2
+TR>57_Time_Sign_L:4
+TR>57_Time_Sign_R:4
+TR>57_Step_CC:122
+---- TRACK58 ----
+TR>58_Channel:9
+TR>58_Zoom:100
+TR>58_Length:16
+TR>58_Step_Mode:4
+TR>58_Relatch:2
+TR>58_Midi_Output:2
+TR>58_Time_Sign_L:4
+TR>58_Time_Sign_R:4
+TR>58_Step_CC:122
+---- TRACK59 ----
+TR>59_Channel:10
+TR>59_Zoom:100
+TR>59_Length:16
+TR>59_Step_Mode:4
+TR>59_Relatch:2
+TR>59_Midi_Output:2
+TR>59_Time_Sign_L:4
+TR>59_Time_Sign_R:4
+TR>59_Step_CC:122
+---- TRACK60 ----
+TR>60_Channel:11
+TR>60_Zoom:100
+TR>60_Length:16
+TR>60_Step_Mode:4
+TR>60_Relatch:2
+TR>60_Midi_Output:2
+TR>60_Time_Sign_L:4
+TR>60_Time_Sign_R:4
+TR>60_Step_CC:122
+---- TRACK61 ----
+TR>61_Channel:12
+TR>61_Zoom:100
+TR>61_Length:16
+TR>61_Step_Mode:4
+TR>61_Relatch:2
+TR>61_Midi_Output:2
+TR>61_Time_Sign_L:4
+TR>61_Time_Sign_R:4
+TR>61_Step_CC:122
+---- TRACK62 ----
+TR>62_Channel:13
+TR>62_Zoom:100
+TR>62_Length:16
+TR>62_Step_Mode:4
+TR>62_Relatch:2
+TR>62_Midi_Output:2
+TR>62_Time_Sign_L:4
+TR>62_Time_Sign_R:4
+TR>62_Step_CC:122
+---- TRACK63 ----
+TR>63_Channel:14
+TR>63_Zoom:100
+TR>63_Length:16
+TR>63_Step_Mode:4
+TR>63_Relatch:2
+TR>63_Midi_Output:2
+TR>63_Time_Sign_L:4
+TR>63_Time_Sign_R:4
+TR>63_Step_CC:122
+---- TRACK64 ----
+TR>64_Channel:15
+TR>64_Zoom:100
+TR>64_Length:16
+TR>64_Step_Mode:4
+TR>64_Relatch:2
+TR>64_Midi_Output:2
+TR>64_Time_Sign_L:4
+TR>64_Time_Sign_R:4
+TR>64_Step_CC:122
 ---- CREATED SEQ ----
 Seq_Created:1
 Seq_Picture:0
@@ -260,7 +339,7 @@ Seq_BarPerform:2
 SEQ>01_Mute_BankA:0
 SEQ>01_Mute_BankB:65535
 SEQ>01_Mute_BankC:65535
-SEQ>01_Mute_BankD:65286
+SEQ>01_Mute_BankD:7
 ----- SEQ02 -----
 SEQ>02_Mute_BankA:65535
 SEQ>02_Mute_BankB:65535
