@@ -209,6 +209,7 @@ TR>17_Midi_Output:2
 TR>17_Time_Sign_L:4
 TR>17_Time_Sign_R:4
 TR>17_Step_Note:36
+TR>17_Step_CC:24
 ---- TRACK18 ----
 TR>18_Channel:9
 TR>18_Zoom:400
@@ -218,6 +219,7 @@ TR>18_Midi_Output:2
 TR>18_Time_Sign_L:4
 TR>18_Time_Sign_R:4
 TR>18_Step_Note:38
+TR>18_Step_CC:29
 ---- TRACK19 ----
 TR>19_Channel:9
 TR>19_Zoom:400
@@ -227,6 +229,7 @@ TR>19_Midi_Output:2
 TR>19_Time_Sign_L:4
 TR>19_Time_Sign_R:4
 TR>19_Step_Note:37
+TR>19_Step_CC:57
 ---- TRACK20 ----
 TR>20_Channel:9
 TR>20_Zoom:400
@@ -236,6 +239,7 @@ TR>20_Midi_Output:2
 TR>20_Time_Sign_L:4
 TR>20_Time_Sign_R:4
 TR>20_Step_Note:39
+TR>20_Step_CC:59
 ---- TRACK21 ----
 TR>21_Channel:9
 TR>21_Zoom:400
@@ -245,6 +249,7 @@ TR>21_Midi_Output:2
 TR>21_Time_Sign_L:4
 TR>21_Time_Sign_R:4
 TR>21_Step_Note:42
+TR>21_Step_CC:62
 ---- TRACK22 ----
 TR>22_Channel:9
 TR>22_Zoom:400
@@ -254,6 +259,7 @@ TR>22_Midi_Output:2
 TR>22_Time_Sign_L:4
 TR>22_Time_Sign_R:4
 TR>22_Step_Note:46
+TR>22_Step_CC:80
 ---- TRACK23 ----
 TR>23_Channel:9
 TR>23_Zoom:400
@@ -263,6 +269,7 @@ TR>23_Midi_Output:2
 TR>23_Time_Sign_L:4
 TR>23_Time_Sign_R:4
 TR>23_Step_Note:49
+TR>23_Step_CC:84
 ---- TRACK24 ----
 TR>24_Channel:9
 TR>24_Zoom:400
@@ -272,6 +279,7 @@ TR>24_Midi_Output:2
 TR>24_Time_Sign_L:4
 TR>24_Time_Sign_R:4
 TR>24_Step_Note:51
+TR>24_Step_CC:87
 ---- TRACK25 ----
 TR>25_Channel:9
 TR>25_Zoom:400
@@ -281,6 +289,7 @@ TR>25_Midi_Output:2
 TR>25_Time_Sign_L:4
 TR>25_Time_Sign_R:4
 TR>25_Step_Note:35
+TR>25_Step_CC:24
 ---- TRACK26 ----
 TR>26_Channel:9
 TR>26_Zoom:400
@@ -290,6 +299,7 @@ TR>26_Midi_Output:2
 TR>26_Time_Sign_L:4
 TR>26_Time_Sign_R:4
 TR>26_Step_Note:40
+TR>26_Step_CC:29
 ---- TRACK27 ----
 TR>27_Channel:9
 TR>27_Zoom:400
@@ -298,7 +308,8 @@ TR>27_Relatch:0
 TR>27_Midi_Output:2
 TR>27_Time_Sign_L:4
 TR>27_Time_Sign_R:4
-TR>27_Step_Note:56
+TR>27_Step_Note:44
+TR>27_Step_CC:56
 ---- TRACK28 ----
 TR>28_Channel:9
 TR>28_Zoom:400
@@ -308,6 +319,7 @@ TR>28_Midi_Output:2
 TR>28_Time_Sign_L:4
 TR>28_Time_Sign_R:4
 TR>28_Step_Note:54
+TR>28_Step_CC:60
 ---- TRACK29 ----
 TR>29_Channel:9
 TR>29_Zoom:400
@@ -317,6 +329,7 @@ TR>29_Midi_Output:2
 TR>29_Time_Sign_L:4
 TR>29_Time_Sign_R:4
 TR>29_Step_Note:43
+TR>29_Step_CC:47
 ---- TRACK30 ----
 TR>30_Channel:9
 TR>30_Zoom:400
@@ -326,6 +339,7 @@ TR>30_Midi_Output:2
 TR>30_Time_Sign_L:4
 TR>30_Time_Sign_R:4
 TR>30_Step_Note:47
+TR>30_Step_CC:50
 ---- TRACK31 ----
 TR>31_Channel:9
 TR>31_Zoom:400
@@ -335,6 +349,7 @@ TR>31_Midi_Output:2
 TR>31_Time_Sign_L:4
 TR>31_Time_Sign_R:4
 TR>31_Step_Note:50
+TR>31_Step_CC:53
 ---- TRACK32 ----
 TR>32_Channel:9
 TR>32_Zoom:400
@@ -344,6 +359,7 @@ TR>32_Midi_Output:2
 TR>32_Time_Sign_L:4
 TR>32_Time_Sign_R:4
 TR>32_Step_Note:12
+TR>32_Step_CC:13
 ---- TRACK41 ----
 TR>41_Channel:10
 TR>41_Zoom:400
