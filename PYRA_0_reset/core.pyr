@@ -443,7 +443,7 @@ TR>48_Step_CC:93
 ---- TRACK52 ----
 TR>52_Channel:3
 TR>52_Zoom:100
-TR>52_Length:16
+TR>52_Length:4
 TR>52_Step_Mode:4
 TR>52_Relatch:2
 TR>52_Midi_Output:1
@@ -453,7 +453,7 @@ TR>52_Step_CC:122
 ---- TRACK53 ----
 TR>53_Channel:4
 TR>53_Zoom:100
-TR>53_Length:16
+TR>53_Length:4
 TR>53_Step_Mode:4
 TR>53_Relatch:2
 TR>53_Midi_Output:1
@@ -463,7 +463,7 @@ TR>53_Step_CC:122
 ---- TRACK54 ----
 TR>54_Channel:5
 TR>54_Zoom:100
-TR>54_Length:16
+TR>54_Length:4
 TR>54_Step_Mode:4
 TR>54_Relatch:2
 TR>54_Midi_Output:1
@@ -473,7 +473,7 @@ TR>54_Step_CC:122
 ---- TRACK55 ----
 TR>55_Channel:6
 TR>55_Zoom:100
-TR>55_Length:16
+TR>55_Length:4
 TR>55_Step_Mode:4
 TR>55_Relatch:2
 TR>55_Midi_Output:1
@@ -483,7 +483,7 @@ TR>55_Step_CC:122
 ---- TRACK56 ----
 TR>56_Channel:7
 TR>56_Zoom:100
-TR>56_Length:16
+TR>56_Length:4
 TR>55_Step_Mode:4
 TR>56_Relatch:2
 TR>56_Midi_Output:1
@@ -493,7 +493,7 @@ TR>56_Step_CC:122
 ---- TRACK57 ----
 TR>57_Channel:8
 TR>57_Zoom:100
-TR>57_Length:16
+TR>57_Length:4
 TR>57_Step_Mode:4
 TR>57_Relatch:2
 TR>57_Midi_Output:2
@@ -503,7 +503,7 @@ TR>57_Step_CC:122
 ---- TRACK58 ----
 TR>58_Channel:9
 TR>58_Zoom:100
-TR>58_Length:16
+TR>58_Length:4
 TR>58_Step_Mode:4
 TR>58_Relatch:2
 TR>58_Midi_Output:2
@@ -513,7 +513,7 @@ TR>58_Step_CC:122
 ---- TRACK59 ----
 TR>59_Channel:10
 TR>59_Zoom:100
-TR>59_Length:16
+TR>59_Length:4
 TR>59_Step_Mode:4
 TR>59_Relatch:2
 TR>59_Midi_Output:2
@@ -523,7 +523,7 @@ TR>59_Step_CC:122
 ---- TRACK60 ----
 TR>60_Channel:11
 TR>60_Zoom:100
-TR>60_Length:16
+TR>60_Length:4
 TR>60_Step_Mode:4
 TR>60_Relatch:2
 TR>60_Midi_Output:2
@@ -533,7 +533,7 @@ TR>60_Step_CC:122
 ---- TRACK61 ----
 TR>61_Channel:12
 TR>61_Zoom:100
-TR>61_Length:16
+TR>61_Length:4
 TR>61_Step_Mode:4
 TR>61_Relatch:2
 TR>61_Midi_Output:2
@@ -543,7 +543,7 @@ TR>61_Step_CC:122
 ---- TRACK62 ----
 TR>62_Channel:13
 TR>62_Zoom:100
-TR>62_Length:16
+TR>62_Length:4
 TR>62_Step_Mode:4
 TR>62_Relatch:2
 TR>62_Midi_Output:2
@@ -553,7 +553,7 @@ TR>62_Step_CC:122
 ---- TRACK63 ----
 TR>63_Channel:14
 TR>63_Zoom:100
-TR>63_Length:16
+TR>63_Length:4
 TR>63_Step_Mode:4
 TR>63_Relatch:2
 TR>63_Midi_Output:2
@@ -563,7 +563,7 @@ TR>63_Step_CC:122
 ---- TRACK64 ----
 TR>64_Channel:15
 TR>64_Zoom:100
-TR>64_Length:16
+TR>64_Length:4
 TR>64_Step_Mode:4
 TR>64_Relatch:2
 TR>64_Midi_Output:2
