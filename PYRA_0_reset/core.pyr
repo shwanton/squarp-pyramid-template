@@ -88,13 +88,6 @@ TR>03_Relatch:0
 TR>03_Midi_Output:1
 TR>03_Time_Sign_L:4
 TR>03_Time_Sign_R:4
-TR>03_Step_Note:48
-TR>03_FX1:0
-TR>03_FX1_P01:1
-TR>03_FX1_P02:4
-TR>03_FX1_P03:0
-TR>03_FX1_P04:0
-TR>03_FX1_P05:-1
 ---- TRACK04 ----
 TR>04_Channel:3
 TR>04_Zoom:100
